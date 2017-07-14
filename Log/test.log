@@ -1,0 +1,8 @@
+2017-06-29 16:27:26,921 logHandler.py[line:35] DEBUG This is debug info
+2017-06-29 16:27:26,922 logHandler.py[line:36] INFO This is info
+2017-06-29 16:27:26,922 logHandler.py[line:37] ERROR This is error info
+2017-06-29 16:27:26,922 logHandler.py[line:38] CRITICAL This is critical info
+2017-06-29 16:30:24,833 logHandler.py[line:35] DEBUG This is debug info
+2017-06-29 16:30:24,833 logHandler.py[line:36] INFO This is info
+2017-06-29 16:30:24,833 logHandler.py[line:37] ERROR This is error info
+2017-06-29 16:30:24,833 logHandler.py[line:38] CRITICAL This is critical info

@@ -1,0 +1,14 @@
+2017-07-02 17:58:04,490 proxyValidSchedule.py[line:13] INFO *************Start Valid proxies************* 
+2017-07-02 17:58:05,695 proxyValidSchedule.py[line:21] INFO 123.149.162.130:808 validation failed
+2017-07-02 17:58:25,698 proxyValidSchedule.py[line:21] INFO 59.66.135.35:1080 validation failed
+2017-07-02 17:58:25,699 proxyValidSchedule.py[line:23] INFO ##############Valid proxies is complete ################ 
+2017-07-02 18:00:14,623 proxyValidSchedule.py[line:13] INFO *************Start Valid proxies************* 
+2017-07-02 18:00:14,623 proxyValidSchedule.py[line:23] INFO ##############Valid proxies is complete ################ 
+2017-07-02 18:25:58,318 proxyValidSchedule.py[line:13] INFO *************Start Valid proxies************* 
+2017-07-02 18:25:58,318 proxyValidSchedule.py[line:23] INFO ##############Valid proxies is complete ################ 
+2017-07-03 00:15:12,375 proxyValidSchedule.py[line:13] INFO *************Start Valid proxies************* 
+2017-07-03 00:15:13,639 proxyValidSchedule.py[line:21] INFO 124.72.216.247:808 validation failed
+2017-07-03 00:15:13,752 proxyValidSchedule.py[line:21] INFO 120.77.206.98:8118 validation failed
+2017-07-03 00:15:13,879 proxyValidSchedule.py[line:21] INFO 111.12.96.188:80 validation failed
+2017-07-03 00:15:31,927 proxyValidSchedule.py[line:21] INFO 60.214.154.2:53281 validation failed
+2017-07-03 00:15:31,929 proxyValidSchedule.py[line:23] INFO ##############Valid proxies is complete ################ 
